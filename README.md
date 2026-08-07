@@ -13,13 +13,12 @@ This repository serves as a portfolio of my front-end development skills, focusi
 
 ## 🛠️ Projects Included
 
-Here’s what you’ll find in this repo:
+Here's what you'll find in this repo:
 
 | Project | Description |
 | :--- | :--- |
 | 🔐 **Password Generator with Strength Meter** | Generate secure passwords with customizable length/characters and visual strength feedback. |
 | 💱 **Real-Time Currency Converter** | Convert between currencies using a live exchange rate API with a sleek dark theme. |
-| 📋 **Professional Contact Form (HTML/CSS)** | A fully styled, accessible contact form with validation and modern UI. |
 | ✅ **Functional To-Do App with Filtering** | Add, delete, and filter tasks. Persists data using Local Storage. |
 | ❓ **Interactive Quiz Game** | A dynamic quiz app that tracks scores and shows correct/incorrect answers. |
 | 🔖 **Bookmark Saver Application** | Save, organize, and manage your favorite URLs locally in the browser. |
@@ -29,12 +28,8 @@ Here’s what you’ll find in this repo:
 | 📜 **Scroll Progress Indicator** | A sleek progress bar that shows how far you've scrolled down a page. |
 | 💳 **Modern Pricing Cards** | Responsive, interactive pricing tables perfect for SaaS or product pages. |
 | 😂 **Dad Jokes** | Fetch random dad jokes from an API – guaranteed to make you groan. |
+| ✉️ **Professional Contact Form (HTML/CSS)** | A fully styled, accessible contact form with validation and modern UI. |
 
-*(Plus additional utilities like a flowchart.txt and a .github folder for organization/community files.)*
-
-## 🚀 Tech Stack
-- **HTML5** – Semantic structure.
-- **CSS3** – Custom properties, Flexbox, Grid, Animations.
-- **JavaScript (ES6+)** – Async/Await, Fetch API, Local Storage, DOM events.
+*(Plus a flowchart.txt and a .gitignore for organizational purposes.)*
 
 ## 📂 Folder Structure
